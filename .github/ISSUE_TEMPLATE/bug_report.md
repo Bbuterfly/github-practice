@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 ## Describe the bug
-- 
+-
 
 ## To Reproduce
-- 
+-
 
 ## Expected behavior
-- 
+-
 
 ## Screenshots
 -
@@ -23,7 +23,7 @@ assignees: ''
 -
 
 ## Possible Solution
-- 
+-
 
 ## Your Environment
-- 
+-
